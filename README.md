@@ -11,7 +11,7 @@ We also implement another class called `EspressoBased` and derive our espresso-b
 <br>
 <p align="center">
 <img src="resources/coffee.jpeg" alt="minor"
-title="minor" width="300" align="middle" />
+title="coffee" width="300" align="middle" />
 </p>
 <br>
 In the above picture, you can see the recipe for the most famous espresso-based coffees. Take a little time and look at this picture, you will need to make a couple of these coffees in this homework.
@@ -129,7 +129,7 @@ EspressoBased::~EspressoBased()
 <br>
 <p align="center">
 <img src="resources/brew.gif" alt="minor"
-title="minor" width="500" align="middle" />
+title="brew" width="500" align="middle" />
 </p>
 <br>
 
